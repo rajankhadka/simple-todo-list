@@ -1,0 +1,10 @@
+.Layout{
+    width: 80%;
+    margin: auto;
+    background-color: aqua;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    
+}
